@@ -1,0 +1,17 @@
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Business.deps.json
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Business.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Business.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Data.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Shared.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Data.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/bin/Debug/net8.0/Shared.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.csproj.Up2Date
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/refint/Business.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/Business.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Business/obj/Debug/net8.0/ref/Business.dll

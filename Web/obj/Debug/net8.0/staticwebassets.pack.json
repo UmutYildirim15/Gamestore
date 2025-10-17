@@ -1,0 +1,1261 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/obj/Debug/net8.0/scopedcss/projectbundle/Web.bundle.scp.css",
+      "PackagePath": "staticwebassets/Web.6qas6av6xj.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/angular.json",
+      "PackagePath": "staticwebassets/UI/angular.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/karma.conf.js",
+      "PackagePath": "staticwebassets/UI/karma.conf.js"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/package-lock.json",
+      "PackagePath": "staticwebassets/UI/package-lock.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/package.json",
+      "PackagePath": "staticwebassets/UI/package.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/proxy.conf.json",
+      "PackagePath": "staticwebassets/UI/proxy.conf.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/app-routing.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/app-routing.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/app.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/app.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/app.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/app.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/app.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/app.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/app.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/app.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/base.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/base.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/checkboxes-input-component/checkboxes-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/common-components.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/common-components.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/datepicker-component/datepicker.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/datepicker-component/datepicker.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/datepicker-component/datepicker.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/datepicker-component/datepicker.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/datepicker-component/datepicker.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/datepicker-component/datepicker.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/delete-wrapper-component/delete-wrapper.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/detail-component/detail.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/detail-component/detail.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/detail-component/detail.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/detail-component/detail.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/detail-component/detail.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/detail-component/detail.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/footer-component/footer.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/footer-component/footer.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/footer-component/footer.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/footer-component/footer.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/footer-component/footer.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/footer-component/footer.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/form-component/form.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/form-component/form.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/form-component/form.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/form-component/form.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/form-component/form.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/form-component/form.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-component/game-list.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-component/game-list.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-component/game-list.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-component/game-list.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-component/game-list.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-component/game-list.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-item-component/game-list-item.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-item-component/game-list-item.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-item-component/game-list-item.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-item-component/game-list-item.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-item-component/game-list-item.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-item-component/game-list-item.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/game-list-item-component/game-list-item.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/game-list-item-component/game-list-item.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/header-component/header.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/header-component/header.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/header-component/header.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/header-component/header.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/header-component/header.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/header-component/header.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-component/info-item.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-component/info-item.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-component/info.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-component/info.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-component/info.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-component/info.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-component/info.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-component/info.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-wrapper-component/info-wrapper.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-wrapper-component/info-wrapper.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-wrapper-component/info-wrapper.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-wrapper-component/info-wrapper.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/info-wrapper-component/info-wrapper.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/info-wrapper-component/info-wrapper.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-component/list.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-component/list.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-component/list.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-component/list.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-component/list.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-component/list.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-item-component/list-item.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-item-component/list-item.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-item-component/list-item.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-item-component/list-item.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-item-component/list-item.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-item-component/list-item.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/list-item-component/list-item.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/list-item-component/list-item.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/loader-component/loader.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/loader-component/loader.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/loader-component/loader.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/loader-component/loader.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/loader-component/loader.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/loader-component/loader.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/loader-component/loader.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/loader-component/loader.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/number-input-component/number-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/number-input-component/number-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/number-input-component/number-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/number-input-component/number-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/number-input-component/number-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/number-input-component/number-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/price-component/price.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/price-component/price.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/price-component/price.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/price-component/price.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/price-component/price.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/price-component/price.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/radio-input-component/radio-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/radio-input-component/radio-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/radio-input-component/radio-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/radio-input-component/radio-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/radio-input-component/radio-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/radio-input-component/radio-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/selector-input-component/selector-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/selector-input-component/selector-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/selector-input-component/selector-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/selector-input-component/selector-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/selector-input-component/selector-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/selector-input-component/selector-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/slide-input-component/slide-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/slide-input-component/slide-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/slide-input-component/slide-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/slide-input-component/slide-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/slide-input-component/slide-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/slide-input-component/slide-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/social-component/social.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/social-component/social.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/social-component/social.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/social-component/social.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/social-component/social.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/social-component/social.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-component/star-size.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-component/star-size.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-component/star.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-component/star.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-component/star.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-component/star.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-component/star.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-component/star.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-rating-component/star-rating.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-rating-component/star-rating.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-rating-component/star-rating.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-rating-component/star-rating.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/star-rating-component/star-rating.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/star-rating-component/star-rating.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/text-input-component/text-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/text-input-component/text-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/text-input-component/text-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/text-input-component/text-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/text-input-component/text-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/text-input-component/text-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/textarea-input-component/textarea-input.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/components/textarea-input-component/textarea-input.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/textarea-input-component/textarea-input.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/components/textarea-input-component/textarea-input.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/components/textarea-input-component/textarea-input.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/components/textarea-input-component/textarea-input.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/auth-guard.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/auth-guard.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/configuration-resolver.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/configuration-resolver.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/configuration.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/configuration.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/error-handler.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/error-handler.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/http-interceptor.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/http-interceptor.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/input-error-matcher.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/input-error-matcher.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/input-validator.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/input-validator.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/page-routes.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/page-routes.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/permissions.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/permissions.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/routes-resolver.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/routes-resolver.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/configuration/shared-info.ts",
+      "PackagePath": "staticwebassets/UI/src/app/configuration/shared-info.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/locals/default-labels.ts",
+      "PackagePath": "staticwebassets/UI/src/app/locals/default-labels.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/locals/en-labels.ts",
+      "PackagePath": "staticwebassets/UI/src/app/locals/en-labels.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/base.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/base.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/basket-info.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/basket-info.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/comment.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/comment.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/game.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/game.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/genre.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/genre.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/order-detail.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/order-detail.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/order.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/order.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/platform.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/platform.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/publisher.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/publisher.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/role.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/role.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/models/user.model.ts",
+      "PackagePath": "staticwebassets/UI/src/app/models/user.model.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/basket-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/basket-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/basket-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/basket-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/basket-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/basket-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/basket-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/basket-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/basket-item-component/basket-item.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/basket-item-component/quantity-operation.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/basket-item-component/quantity-operation.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/basket-page/components/item-quantity-component/item-quantity.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-game-page/delete-game-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-game-page/delete-game-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-game-page/delete-game-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-game-page/delete-game-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-game-page/delete-game-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-game-page/delete-game-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-game-page/delete-game-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-game-page/delete-game-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-genre-page/delete-genre-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-genre-page/delete-genre-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-genre-page/delete-genre-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-genre-page/delete-genre-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-genre-page/delete-genre-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-genre-page/delete-genre-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-genre-page/delete-genre-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-genre-page/delete-genre-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-platform-page/delete-platform-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-platform-page/delete-platform-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-platform-page/delete-platform-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-platform-page/delete-platform-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-platform-page/delete-platform-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-platform-page/delete-platform-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-platform-page/delete-platform-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-platform-page/delete-platform-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-publisher-page/delete-publisher-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-publisher-page/delete-publisher-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-publisher-page/delete-publisher-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-role-page/delete-role-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-role-page/delete-role-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-role-page/delete-role-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-role-page/delete-role-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-role-page/delete-role-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-role-page/delete-role-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-role-page/delete-role-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-role-page/delete-role-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-user-page/delete-user-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-user-page/delete-user-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-user-page/delete-user-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-user-page/delete-user-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-user-page/delete-user-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-user-page/delete-user-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/delete-user-page/delete-user-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/delete-user-page/delete-user-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/add-comment-component/add-comment.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/ban-user-component/ban-user.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comment-component/comment-action.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comment-component/comment-action.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comment-component/comment.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comment-component/comment.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comment-component/comment.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comment-component/comment.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comment-component/comment.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comment-component/comment.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comments-component/comments.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comments-component/comments.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comments-component/comments.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comments-component/comments.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/components/comments-component/comments.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/components/comments-component/comments.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/game-info.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/game-info.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/game-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/game-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/game-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/game-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/game-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/game-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/game-page/game-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/game-page/game-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/filter-wrapper/filter-trigger.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/filter-wrapper/filter-trigger.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/filter-wrapper/filter-wrapper.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/pagging-wrapper/pagging-wrapper.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/components/sort-wrapper/sort-wrapper.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/games-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/games-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/games-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/games-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/games-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/games-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/games-page/games-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/games-page/games-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genre-page/genre-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genre-page/genre-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genre-page/genre-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genre-page/genre-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genre-page/genre-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genre-page/genre-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genre-page/genre-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genre-page/genre-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genres-page/genres-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genres-page/genres-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genres-page/genres-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genres-page/genres-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genres-page/genres-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genres-page/genres-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/genres-page/genres-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/genres-page/genres-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/history-page/history-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/history-page/history-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/history-page/history-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/history-page/history-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/history-page/history-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/history-page/history-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/history-page/history-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/history-page/history-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/login-page/login-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/login-page/login-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/login-page/login-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/login-page/login-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/login-page/login-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/login-page/login-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/login-page/login-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/login-page/login-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/main-page/main-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/main-page/main-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/main-page/main-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/main-page/main-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/main-page/main-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/main-page/main-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/main-page/main-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/main-page/main-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/terminal-result-component/terminal-result.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/components/visa-payment-component/visa-payment.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/make-order-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/make-order-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/make-order-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/make-order-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/make-order-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/make-order-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/make-order-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/make-order-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/make-order-page/payment-methods.enum.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/make-order-page/payment-methods.enum.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/order-page/order-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/order-page/order-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/order-page/order-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/order-page/order-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/order-page/order-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/order-page/order-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/order-page/order-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/order-page/order-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/orders-page/orders-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/orders-page/orders-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/orders-page/orders-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/orders-page/orders-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/orders-page/orders-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/orders-page/orders-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/orders-page/orders-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/orders-page/orders-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platform-page/platform-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platform-page/platform-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platform-page/platform-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platform-page/platform-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platform-page/platform-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platform-page/platform-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platform-page/platform-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platform-page/platform-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platforms-page/platforms-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platforms-page/platforms-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platforms-page/platforms-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platforms-page/platforms-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platforms-page/platforms-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platforms-page/platforms-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/platforms-page/platforms-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/platforms-page/platforms-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publisher-page/publisher-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publisher-page/publisher-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publisher-page/publisher-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publisher-page/publisher-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publisher-page/publisher-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publisher-page/publisher-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publisher-page/publisher-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publisher-page/publisher-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publishers-page/publishers-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publishers-page/publishers-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publishers-page/publishers-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publishers-page/publishers-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publishers-page/publishers-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publishers-page/publishers-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/publishers-page/publishers-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/publishers-page/publishers-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/role-page/role-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/role-page/role-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/role-page/role-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/role-page/role-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/role-page/role-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/role-page/role-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/role-page/role-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/role-page/role-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/roles-page/roles-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/roles-page/roles-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/roles-page/roles-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/roles-page/roles-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/roles-page/roles-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/roles-page/roles-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/roles-page/roles-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/roles-page/roles-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-game-page/update-game-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-game-page/update-game-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-game-page/update-game-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-game-page/update-game-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-game-page/update-game-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-game-page/update-game-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-game-page/update-game-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-game-page/update-game-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-genre-page/update-genre-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-genre-page/update-genre-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-genre-page/update-genre-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-genre-page/update-genre-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-genre-page/update-genre-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-genre-page/update-genre-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-genre-page/update-genre-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-genre-page/update-genre-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/change-count-component/change-count.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/components/select-game-component/select-game.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/update-order-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/update-order-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/update-order-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/update-order-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/update-order-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/update-order-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-order-page/update-order-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-order-page/update-order-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-platform-page/update-platform-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-platform-page/update-platform-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-platform-page/update-platform-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-platform-page/update-platform-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-platform-page/update-platform-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-platform-page/update-platform-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-platform-page/update-platform-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-platform-page/update-platform-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-publisher-page/update-publisher-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-publisher-page/update-publisher-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-publisher-page/update-publisher-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-publisher-page/update-publisher-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-publisher-page/update-publisher-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-publisher-page/update-publisher-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-publisher-page/update-publisher-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-publisher-page/update-publisher-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-role-page/update-role-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-role-page/update-role-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-role-page/update-role-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-role-page/update-role-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-role-page/update-role-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-role-page/update-role-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-role-page/update-role-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-role-page/update-role-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-user-page/update-user-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-user-page/update-user-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-user-page/update-user-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-user-page/update-user-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-user-page/update-user-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-user-page/update-user-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/update-user-page/update-user-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/update-user-page/update-user-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/user-page/user-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/user-page/user-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/user-page/user-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/user-page/user-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/user-page/user-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/user-page/user-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/user-page/user-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/user-page/user-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/users-page/users-page.component.html",
+      "PackagePath": "staticwebassets/UI/src/app/pages/users-page/users-page.component.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/users-page/users-page.component.scss",
+      "PackagePath": "staticwebassets/UI/src/app/pages/users-page/users-page.component.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/users-page/users-page.component.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/users-page/users-page.component.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/pages/users-page/users-page.module.ts",
+      "PackagePath": "staticwebassets/UI/src/app/pages/users-page/users-page.module.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/base.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/base.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/comment.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/comment.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/game.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/game.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/genre.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/genre.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/order.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/order.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/platform.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/platform.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/publisher.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/publisher.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/role.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/role.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/app/services/user.service.ts",
+      "PackagePath": "staticwebassets/UI/src/app/services/user.service.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/assets/configuration/configuration.json",
+      "PackagePath": "staticwebassets/UI/src/assets/configuration/configuration.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/assets/configuration/route-configuration.json",
+      "PackagePath": "staticwebassets/UI/src/assets/configuration/route-configuration.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/assets/img/article.png",
+      "PackagePath": "staticwebassets/UI/src/assets/img/article.png"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/assets/img/background.png",
+      "PackagePath": "staticwebassets/UI/src/assets/img/background.png"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/environments/environment.ts",
+      "PackagePath": "staticwebassets/UI/src/environments/environment.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/favicon.ico",
+      "PackagePath": "staticwebassets/UI/src/favicon.ico"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/index.html",
+      "PackagePath": "staticwebassets/UI/src/index.html"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/main.ts",
+      "PackagePath": "staticwebassets/UI/src/main.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/polyfills.ts",
+      "PackagePath": "staticwebassets/UI/src/polyfills.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/styles.scss",
+      "PackagePath": "staticwebassets/UI/src/styles.scss"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/src/test.ts",
+      "PackagePath": "staticwebassets/UI/src/test.ts"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/tsconfig.app.json",
+      "PackagePath": "staticwebassets/UI/tsconfig.app.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/tsconfig.json",
+      "PackagePath": "staticwebassets/UI/tsconfig.json"
+    },
+    {
+      "Id": "/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Web/wwwroot/UI/tsconfig.spec.json",
+      "PackagePath": "staticwebassets/UI/tsconfig.spec.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

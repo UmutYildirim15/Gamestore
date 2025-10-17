@@ -1,0 +1,18 @@
+<form *ngIf="form" [formGroup]="form" (ngSubmit)="onSave()">
+    <div>
+        <label>Role Name</label>
+        <input formControlName="name" />
+        <div *ngIf="form.get('name')?.invalid && form.get('name')?.touched">
+            Name is required
+        </div>
+    </div>
+
+    <div formArrayName="permissions">
+        <label>Permissions</label>
+        <div *ngFor="let perm of permissionItems; let i = index">
+            <input type="checkbox" [formControlName]="i" /> {{ perm.label }}
+        </div>
+    </div>
+
+    <button type="submit">Save</button>
+</form>

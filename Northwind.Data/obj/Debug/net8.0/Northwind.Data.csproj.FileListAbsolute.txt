@@ -1,0 +1,15 @@
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/bin/Debug/net8.0/Northwind.Data.deps.json
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/bin/Debug/net8.0/Northwind.Data.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/bin/Debug/net8.0/Northwind.Data.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/bin/Debug/net8.0/Shared.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/bin/Debug/net8.0/Shared.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.csproj.AssemblyReference.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.AssemblyInfoInputs.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.AssemblyInfo.cs
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.csproj.CoreCompileInputs.cache
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwin.7C88DC34.Up2Date
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/refint/Northwind.Data.dll
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/Northwind.Data.pdb
+/Users/umutyildirim/Desktop/EPAM/game-strore-v2-epic-10/Northwind.Data/obj/Debug/net8.0/ref/Northwind.Data.dll
